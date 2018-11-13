@@ -130,7 +130,7 @@ public class MapReduce {
     public static void main(String[] args) throws ClassNotFoundException, IOException, InterruptedException {
     	
         String centerPath = "hdfs://localhost:9000/user/root/in/cluster.center.conf.txt";
-        String dataPath = "hdfs://localhost:9000/user/root/in/kmeans.txt";
+        String dataPath = "hdfs://localhost:9000/user/root/in/Instance.txt";
         String newCenterPath = "hdfs://localhost:9000/user/root/out/kmeans";
         
         int count = 0;
