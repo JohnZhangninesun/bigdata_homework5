@@ -5,3 +5,7 @@ data中Instance.txt为总样本，cluster.center.conf.txt为初始中心节点�
 ## 程序流程
 编译代码——打包——上传数据文件——运行——下载结果文件——可视化处理
 ## 运行截图
+![](https://github.com/JohnZhangninesun/bigdata_homework5/blob/master/screenshot/kmeans.PNG)
+![](https://github.com/JohnZhangninesun/bigdata_homework5/blob/master/screenshot/kmeans1.PNG)
+![](https://github.com/JohnZhangninesun/bigdata_homework5/blob/master/screenshot/kmeans2.PNG)
+![](https://github.com/JohnZhangninesun/bigdata_homework5/blob/master/screenshot/kmeans3.PNG)
